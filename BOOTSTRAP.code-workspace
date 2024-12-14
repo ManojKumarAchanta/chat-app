@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "BOOTSTRAP",
+			"path": "../BOOTSTRAP"
+		},
+		{
+			"name": "assets",
+			"path": "../../Downloads/nike_landing_assets (1)/assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "BOOTSTRAP"
+	}
+}
